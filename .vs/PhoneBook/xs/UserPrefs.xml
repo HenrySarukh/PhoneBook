@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{DF0BAC10-0D7A-4E7B-8690-0B216BBB1D35}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneBook/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneBook/Model.cs">
     <Files>
       <File FileName="PhoneBook/Program.cs" Line="8" Column="10" />
+      <File FileName="PhoneBook/Data.cs" Line="120" Column="1" />
+      <File FileName="PhoneBook/Model.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PhoneBook" expanded="True">
             <Node name="PhoneBook" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Model.cs" selected="True" />
             </Node>
           </Node>
         </State>
